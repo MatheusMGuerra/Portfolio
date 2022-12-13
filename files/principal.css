@@ -6,5 +6,21 @@
     #7A86E1
     #3548DB
     #585961
-    #2837A8;*/
+    #2837A8
+    #FFFFFF */
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #585961;
+    color: white;
 }
